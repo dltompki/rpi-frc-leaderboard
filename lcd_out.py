@@ -46,4 +46,4 @@ while True:
 
     lcd.message = line1 + line2
 
-    sleep(2)
+    sleep(3)
