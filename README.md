@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/ae3k7yy.jpg)![](https://i.imgur.com/TmYF2Qw.jpg)
 
+### [Event Data provided by FIRST](https://frc-events.firstinspires.org/services/API)
+
 Using a Raspberry Pi 4B and the FIRST FRC Events API to display live stats for my team on a 16x2 LCD display.
 
 ## Materials
